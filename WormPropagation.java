@@ -64,7 +64,7 @@ public class WormPropagation {
             }
         }
 
-
+        worm.print();
     }
 
     public void print(String args[]) throws UnsupportedEncodingException {
